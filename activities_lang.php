@@ -4,7 +4,7 @@ defined( 'BASEPATH' ) OR exit( 'No direct script access allowed' );
 
 $lang['av_ticket_created_user']       = 'Le ticket a été créé par l'utilisateur.';
 $lang['av_ticket_created_admin']      = 'Le ticket a été créé par un membre de l'équipe pour l'utilisateur.';
-$lang['av_ticket_created_email']      = 'Ticket was Created through Email.';
+$lang['av_ticket_created_email']      = 'Le ticket a été créé par e-mail.';
 $lang['av_ticket_replied_user']       = 'Ticket was Replied by User.';
 $lang['av_ticket_replied_agent']      = 'Ticket was Replied by Team Member.';
 $lang['av_ticket_replied_email']      = 'Ticket was Replied through Email.';
